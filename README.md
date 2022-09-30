@@ -120,7 +120,7 @@ Jupyter (formerly IPython Notebook) is an open-source project that lets you easi
 ## Installation VS Code
 Please download and install the VS Code that compatible with your operating system:
 
-* [Linux]{https://code.visualstudio.com/docs/setup/linux}
+* [Linux](https://code.visualstudio.com/docs/setup/linux)
 
 
 
