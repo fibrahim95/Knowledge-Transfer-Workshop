@@ -106,3 +106,19 @@ The interface will pop up and make sure check the Jupyter Notebook was installed
 
 The Jupyeter Notebook will pop up the interface. To create a new notebook, click the button `New` and you will see in this notebook that you will be use python 3. Please try run and print `Hello world` in this notebook.
 ![Screenshot (33)](https://user-images.githubusercontent.com/70914271/154542523-8cbcdcbf-348a-4a91-97e8-62951acfa0f4.png)
+
+
+# Jupyter Notebooks in VS Code
+Jupyter (formerly IPython Notebook) is an open-source project that lets you easily combine Markdown text and executable Python source code on one canvas called a notebook. Visual Studio Code supports working with Jupyter Notebooks natively, and through Python code files. This topic covers the native support available for Jupyter Notebooks and demonstrates how to:
+
+* Create, open, and save Jupyter Notebooks
+* Work with Jupyter code cells
+* View, inspect, and filter variables using the Variable Explorer and Data Viewer
+* Connect to a remote Jupyter server
+* Debug a Jupyter Notebook
+
+## Installation VS Code
+
+
+
+
