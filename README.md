@@ -124,5 +124,9 @@ Please download and install the VS Code that compatible with your operating syst
 * [Windows](https://code.visualstudio.com/docs/setup/windows)
 * [macOS](https://code.visualstudio.com/docs/setup/mac)
 
+## Running VS Code
+
+Open the terminal on linux and macOS. Activate the `myEnvs` environment. Then type `code .`.
+
 
 
