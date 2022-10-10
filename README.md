@@ -132,7 +132,7 @@ Open the terminal on linux and macOS. Whereas for Windows, search `anaconda Prom
 
 
 Your display will pop up something like this:
-![Uploading Screenshot (3).png…]()
+![Screenshot (3)](https://user-images.githubusercontent.com/70914271/194875888-312c2bcc-65ed-4730-b618-654d264d8965.png)
 
 
 
