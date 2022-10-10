@@ -126,7 +126,8 @@ Please download and install the VS Code that compatible with your operating syst
 
 ## Running VS Code
 
-Open the terminal on linux and macOS. Activate the `myEnvs` environment. Then type `code .`.
+Open the terminal on linux and macOS. Whereas for Windows, search `anaconda Prompt (Anaconda3)` and click it. Afterwards, activate the `myEnvs` environment. Then type `code .`.
 
+![Screenshot (4)](https://user-images.githubusercontent.com/70914271/194872984-23a4c80e-0947-4374-b731-0b604301f8da.png)
 
 
