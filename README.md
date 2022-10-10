@@ -134,5 +134,11 @@ Open the terminal on linux and macOS. Whereas for Windows, search `anaconda Prom
 Your display will pop up something like this:
 ![Screenshot (3)](https://user-images.githubusercontent.com/70914271/194875888-312c2bcc-65ed-4730-b618-654d264d8965.png)
 
+Please install the extension for Jupyter notebook as show below:
+![Screenshot (2)](https://user-images.githubusercontent.com/70914271/194876865-b469fed3-a9bc-43ce-ac88-094e6090cfcd.png)
+
+
+
+
 
 
