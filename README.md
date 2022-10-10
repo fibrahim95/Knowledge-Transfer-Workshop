@@ -140,6 +140,11 @@ Please install the extension for Jupyter notebook as show below:
 Since you already installed the extensions, click the `New File` and choose `Jupyter Notebook`.
 ![Screenshot (5)](https://user-images.githubusercontent.com/70914271/194879718-c4739f1d-0b03-4e21-bddb-7724fd209a2d.png)
 
+Finally, please check the your anaconda environment is `myEnvs`. Write some codes and print `Welcome to Knowledge Transfer Workshop!`. Make sure it is working.
+![Screenshot (6)](https://user-images.githubusercontent.com/70914271/194883100-abbe2e2d-fa5f-4748-9d31-4fb4f271004e.png)
+
+
+
 
 
 
