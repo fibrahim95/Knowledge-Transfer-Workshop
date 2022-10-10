@@ -143,6 +143,8 @@ Since you already installed the extensions, click the `New File` and choose `Jup
 Finally, please check the your anaconda environment is `myEnvs`. Write some codes and print `Welcome to Knowledge Transfer Workshop!`. Make sure it is working.
 ![Screenshot (6)](https://user-images.githubusercontent.com/70914271/194883100-abbe2e2d-fa5f-4748-9d31-4fb4f271004e.png)
 
+Congratulations!! You made to install Anaconda,Jupyter-Notebook and VS Code. You guys can play around with Jupyter-Notebook before the workshop will carried out to ensure your Notebook is working well. Here you guys can go through some python tutorials in this [link](https://www.w3schools.com/python/). Good luck!!!
+
 
 
 
