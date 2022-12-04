@@ -69,7 +69,6 @@ For machine learning, we are required some libraries in this workshop such as:
 - [`tensorflow`](https://anaconda.org/conda-forge/tensorflow)
 - [`scikit-learn`](https://anaconda.org/anaconda/scikit-learn)
 - [`jupyter`](https://anaconda.org/conda-forge/jupyter)
-- [`tensorflow`](https://anaconda.org/conda-forge/tensorflow)
 - [`uproot`](https://anaconda.org/conda-forge/uproot)
 
 You need to install all these libraries in `myEnv` environment. To install these libraries, go to command prompt or terminal, just type:
